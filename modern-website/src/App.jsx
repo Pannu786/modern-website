@@ -1,9 +1,8 @@
-import React from 'react'
-l
-const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+import React from 'react';
+const App = () => (
+  <div className='bg-primary w-full overflow-hidden'>
+    <h1>Hello, SON</h1>
+  </div>
+);
 
-export default App
+export default App;
