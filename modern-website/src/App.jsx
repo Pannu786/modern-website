@@ -1,7 +1,7 @@
 import React from 'react';
 const App = () => (
   <div className='bg-primary w-full overflow-hidden'>
-    <h1>Hello, SON</h1>
+    
   </div>
 );
 
